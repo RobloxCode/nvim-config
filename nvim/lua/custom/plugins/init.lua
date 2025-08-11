@@ -1,0 +1,22 @@
+-- You can add your own plugins here or in other files in this directory!
+--  I promise not to create any merge conflicts in this directory :)
+--
+-- See the kickstart.nvim README for more information
+return {
+  -- {
+  --   'catppuccin/nvim',
+  --   name = 'catppuccin',
+  --   priority = 1000,
+  --   config = function()
+  --     require('catppuccin').setup {
+  --       flavour = 'mocha', -- or latte, frappe, macchiato
+  --     }
+  --     vim.cmd.colorscheme 'catppuccin'
+  --
+  --     vim.cmd [[
+  --       highlight Normal guibg=#000000
+  --       highlight NormalNC guibg=#000000
+  --     ]]
+  --   end,
+  -- },
+}
